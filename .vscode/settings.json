@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "graphics.h": "c",
+        "stdio.h": "c",
+        "fonts.h": "c",
+        "gpio.h": "c",
+        "string": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "algorithm": "c",
+        "random": "c"
+    }
+}
